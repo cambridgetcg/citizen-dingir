@@ -1,0 +1,8 @@
+name: dingir
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The mark that names a thing as sacred and asks whether it truly earned that.
+dependsOn: [an, me, truth]
